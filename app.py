@@ -29,3 +29,6 @@ for file_name in os.listdir(text_dir):
         print(f"Cleaned text saved: {file_path}")
 
 print("All text files have been cleaned successfully.")
+
+
+#### Testing git demo and pushing the latest updated file
